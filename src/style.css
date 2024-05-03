@@ -1,1 +1,9 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: blue;
+}
+h1 {
+  background-color: red;
+}
+.excuse {
+  border-color: aquamarine;
+}
